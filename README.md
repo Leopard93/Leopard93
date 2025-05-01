@@ -25,10 +25,10 @@
 
 | Область                | Технологии                                          |
 |------------------------|------------------------------------------------------|
-| ⚙️ Инфраструктура       | Windows Server, Active Directory, IIS, VPN, RDP     |
-| 🛠️ Backend              | Node.js, Express.js, REST API                       |
+| ⚙️ Инфраструктура       | Windows Server, Linux, Active Directory, IIS, Apache, Nginx, VPN, RDP     |
+| 🛠️ Backend              | Node.js, Express.js, REST API, Python, Flask                       |
 | 💽 Базы данных          | PostgreSQL (реляционная логика, связи, триггеры)   |
-| 🎨 Frontend             | Vue.js (Options & Composition API), Tailwind CSS    |
+| 🎨 Frontend             | Vue.js (Options & Composition API), Vuetify, Tailwind CSS    |
 | 📦 Интеграции           | HTTP-сервисы 1С, JSON/REST обмен, JWT, CSRF        |
 | 🧠 Инструменты           | Git, GitHub, GitHub Desktop, Postman                |
 | 🤖 Помощник              | ChatGPT (архитектура + реализация логики)          |
@@ -42,10 +42,6 @@
 - Двунаправленный обмен, дерево категорий, разграничение прав
 - Стек: 1С + Node.js + Express + PostgreSQL + Vue.js
 
-🔗 [Проект на GitHub](https://github.com/Leopard93/1CJS)
-
----
-
 ## 🎯 Цель
 
 Создаю **готовую платформу**, способную связывать любые типовые и нетиповые 1С-системы с веб-интерфейсами и API,  
@@ -56,9 +52,8 @@
 ## 📫 Связь
 
 - Email: pukazov.alexandr@gmail.com
-- Telegram: `@your_username`
-- LinkedIn: *если есть — вставь ссылку*
-
+- Telegram: `beatmaker_rus`
+- 
 ---
 
 <p align="center">
